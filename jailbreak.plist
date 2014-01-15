@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>developer.apple.wwdc-Release</string>
+				<string>com.example.*</string>
 				<key>bundle-version</key>
-				<string>202</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>WWDC</string>
+				<string>Example</string>
 			</dict>
 		</dict>
 	</array>
