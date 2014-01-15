@@ -1,0 +1,2 @@
+Read the jailbreak.plist and edit it to the URL (HTTPS - SSL NEED) of the .ipa and the icon.png file.
+Check out the version-1.html and version-2.html and edit the url to jailbreak.plist(HTTPS - SSL NEED) in the file(s) wich you use.
